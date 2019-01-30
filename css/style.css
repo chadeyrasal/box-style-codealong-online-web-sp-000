@@ -158,6 +158,10 @@ header {
   text-align: center;
 }
 
+#navbar nav {
+  border-bottom: 1px solid #ccc;
+}
+
 /*////////// LOGO //////////*/
 
 #logo h1 {
