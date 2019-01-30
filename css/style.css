@@ -90,7 +90,7 @@ img, video, audio, iframe, table, form {
 }
 
 .col-3 {
-  
+
 }
 
 [class*="col-"] {
@@ -127,8 +127,6 @@ img, video, audio, iframe, table, form {
 
 
 /*////////// LOGO //////////*/
-
-
 
 #logo h1 {
   font-family: 'Clicker Script', cursive;
